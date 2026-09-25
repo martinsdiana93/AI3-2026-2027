@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<faturação>    
+    <fatura>
+    
+        <cabecalho>
+            <numero>SERIE1/123456</numero>
+            <data>2026-09-25</data>
+            <cliente>
+                <nome>João Silva</nome>
+                <morada>Rua da Liberdade, 25, 3500-000 Viseu</morada>
+                <telefone>232456789</telefone>
+            </cliente>
+        </cabecalho>
+
+        <produtos>
+            <produto>
+                <codigo>P001</codigo>
+                <designacao>Teclado sem fios</designacao>
+                <quantidade>2</quantidade>
+                <preco>29.90</preco>
+            </produto>
+
+            <produto>
+                <codigo>P002</codigo>
+                <designacao>Rato ótico USB</designacao>
+                <quantidade>1</quantidade>
+                <preco>14.50</preco>
+            </produto>
+        </produtos>
+
+    </fatura>
+</faturação>
