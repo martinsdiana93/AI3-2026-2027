@@ -1,0 +1,46 @@
+[
+    {
+        "id": 41,
+        "titulo": "Mais sessões de apoio às unidades de programação",
+        "descricao": "Proponho criar sessões semanais de apoio às unidades de programação do primeiro ano.",
+        "categoria": "ensino",
+        "numeroAluno": "67890",
+        "estado": "resolvida",
+        "dataCriacao": "2026-09-15T09:00:00Z",
+        "dataAtualizacao": "2026-10-02T16:45:00Z",
+        "dataResolucao": "2026-10-02T16:45:00Z"
+    },
+    {
+        "id": 42,
+        "titulo": "Melhorar a biblioteca",
+        "descricao": "Proponho alargar o horário da biblioteca durante a época de exames.",
+        "categoria": "instalacoes",
+        "numeroAluno": "12345",
+        "estado": "aceite",
+        "dataCriacao": "2026-10-01T10:30:00Z",
+        "dataAtualizacao": "2026-10-05T14:00:00Z",
+        "dataResolucao": null
+    },
+    {
+        "id": 43,
+        "titulo": "Pagamento de propinas por referência multibanco",
+        "descricao": "Sugiro disponibilizar referências multibanco para o pagamento das propinas em prestações.",
+        "categoria": "servicos",
+        "numeroAluno": "12345",
+        "estado": "submetida",
+        "dataCriacao": "2026-10-12T11:20:00Z",
+        "dataAtualizacao": "2026-10-12T11:20:00Z",
+        "dataResolucao": null
+    },
+    {
+        "id": 44,
+        "titulo": "Torneio de futsal entre cursos",
+        "descricao": "Proponho organizar um torneio de futsal entre os cursos no final do primeiro semestre.",
+        "categoria": "atividades",
+        "numeroAluno": "67890",
+        "estado": "em_analise",
+        "dataCriacao": "2026-10-14T15:10:00Z",
+        "dataAtualizacao": "2026-10-16T10:00:00Z",
+        "dataResolucao": null
+    }
+]
